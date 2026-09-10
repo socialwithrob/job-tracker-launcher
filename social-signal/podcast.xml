@@ -24,5 +24,29 @@
 
     <!-- New episodes are inserted automatically below this line by Google Apps Script. -->
 
+
+    <item>
+
+      <title>SOCIAL SIGNAL — Morning — September 10, 2026 — Apple Just Made Foldables Mainstream</title>
+
+      <description>Today&apos;s morning edition of SOCIAL SIGNAL. Marketing, media, technology and culture decoded through the headlines.</description>
+
+      <itunes:summary>Today&apos;s morning edition of SOCIAL SIGNAL. Marketing, media, technology and culture decoded through the headlines.</itunes:summary>
+
+      <itunes:explicit>true</itunes:explicit>
+
+      <pubDate>Thu, 10 Sep 2026 17:07:04 GMT</pubDate>
+
+      <guid isPermaLink="false">social-signal-20260910-170704</guid>
+
+      <enclosure
+        url="https://res.cloudinary.com/xo92ijal/video/upload/l_audio:Podcast_Music/fl_layer_apply,so_0,du_4/rob-growth-v10-1789060011.mp3"
+        length="2307548"
+        type="audio/mpeg"
+      />
+
+    </item>
+
+
   </channel>
 </rss>
