@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SOCIAL SIGNAL</title>
+    <link>https://socialwithrob.github.io/job-tracker-launcher/social-signal/</link>
+    <language>en-us</language>
+    <copyright>© 2026 SOCIAL SIGNAL</copyright>
+    <description>Marketing, media, technology and culture decoded through the headlines — with the signal marketers should actually care about.</description>
+    <itunes:author>Social With Rob</itunes:author>
+    <itunes:summary>Marketing, media, technology and culture decoded through the headlines — with the signal marketers should actually care about.</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business">
+      <itunes:category text="Marketing"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Social With Rob</itunes:name>
+      <itunes:email>socialwithrob@gmail.com</itunes:email>
+    </itunes:owner>
+    <!-- Replace this URL with the final square SOCIAL SIGNAL cover before submitting to Spotify. -->
+    <itunes:image href="https://socialwithrob.github.io/job-tracker-launcher/social-signal/cover.png"/>
+
+    <!-- New episodes are inserted automatically below this line by Google Apps Script. -->
+
+  </channel>
+</rss>
