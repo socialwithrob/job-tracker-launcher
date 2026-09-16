@@ -18,5 +18,29 @@
 
     <!-- New episodes are inserted automatically below this line by Google Apps Script. -->
 
+
+    <item>
+
+      <title>Ads Just Learned How to Talk Back</title>
+
+      <description>OpenAI is testing business-sponsored AI agents, AI adoption is racing ahead of obvious productivity gains, and forecasts for autonomous agents are getting enormous. Puck and Kore break down what conversational advertising could change, why marketers need better measurement instead of more AI theater, and why trust, taste, judgment and machine-readable brand truth may become more valuable as execution gets cheaper.</description>
+
+      <itunes:summary>OpenAI is testing business-sponsored AI agents, AI adoption is racing ahead of obvious productivity gains, and forecasts for autonomous agents are getting enormous. Puck and Kore break down what conversational advertising could change, why marketers need better measurement instead of more AI theater, and why trust, taste, judgment and machine-readable brand truth may become more valuable as execution gets cheaper.</itunes:summary>
+
+      <itunes:explicit>false</itunes:explicit>
+
+      <pubDate>Wed, 16 Sep 2026 20:42:48 GMT</pubDate>
+
+      <guid isPermaLink="false">social-signal-20260916-204248</guid>
+
+      <enclosure
+        url="https://res.cloudinary.com/xo92ijal/video/upload/l_audio:Podcast_Music/fl_layer_apply,so_0,du_4/rob-growth-v10-1789591356.mp3"
+        length="5155460"
+        type="audio/mpeg"
+      />
+
+    </item>
+
+
   </channel>
 </rss>
