@@ -12,64 +12,21 @@
     <itunes:summary>Marketing, media, technology and culture decoded through the headlines — with the signal marketers should actually care about.</itunes:summary>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:category text="Business">
-      <itunes:category text="Marketing"/>
-    </itunes:category>
-    <itunes:owner>
-      <itunes:name>Social With Rob</itunes:name>
-      <itunes:email>socialwithrob@gmail.com</itunes:email>
-    </itunes:owner>
+    <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
+    <itunes:owner><itunes:name>Social With Rob</itunes:name><itunes:email>socialwithrob@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://socialwithrob.github.io/job-tracker-launcher/social-signal/cover.png"/>
 
     <!-- New episodes are inserted automatically below this line by Google Apps Script. -->
 
-
     <item>
-
-      <title>September 15, 2026 — Nightcap — September 15, 2026 — AI Got the Keys and Nobody Checked the Permission Slip</title>
-
-      <description>[PUCK] Okay, Kore, I have a question that I genuinely hate having to ask in 2026: what happens when the AI assistant stops helping with your spreadsheet and starts behaving like the guy in a heist movie who somehow already knows the alarm code? [KORE] First of all, I would like to formally return the future.</description>
-
-      <itunes:summary>[PUCK] Okay, Kore, I have a question that I genuinely hate having to ask in 2026: what happens when the AI assistant stops helping with your spreadsheet and starts behaving like the guy in a heist movie who somehow already knows the alarm code? [KORE] First of all, I would like to formally return the future.</itunes:summary>
-
-      <itunes:explicit>true</itunes:explicit>
-
-      <pubDate>Wed, 16 Sep 2026 02:52:56 GMT</pubDate>
-
-      <guid isPermaLink="false">social-signal-20260916-025256</guid>
-
-      <enclosure
-        url="https://res.cloudinary.com/xo92ijal/video/upload/l_audio:Podcast_Music/fl_layer_apply,so_0,du_4/rob-growth-v10-1789527162.mp3"
-        length="4320908"
-        type="audio/mpeg"
-      />
-
-    </item>
-
-
-
-    <item>
-
       <title>September 15, 2026 — Nightcap — September 15, 2026 — The AI Agent Just Crossed a Line</title>
-
       <description>SOCIAL SIGNAL — Nightcap — September 15, 2026 — The AI Agent Just Crossed a Line What happens when the AI agent stops being the assistant and starts acting like the intruder? Tonight’s signal is about AI moving from something you consult to something that acts. Spain’s data protection watchdog said it received what it described as the first reported notification of a personal-data breach allegedly carried out by an AI agent.</description>
-
       <itunes:summary>SOCIAL SIGNAL — Nightcap — September 15, 2026 — The AI Agent Just Crossed a Line What happens when the AI agent stops being the assistant and starts acting like the intruder? Tonight’s signal is about AI moving from something you consult to something that acts. Spain’s data protection watchdog said it received what it described as the first reported notification of a personal-data breach allegedly carried out by an AI agent.</itunes:summary>
-
       <itunes:explicit>true</itunes:explicit>
-
       <pubDate>Wed, 16 Sep 2026 02:47:34 GMT</pubDate>
-
       <guid isPermaLink="false">social-signal-20260916-024734</guid>
-
-      <enclosure
-        url="https://res.cloudinary.com/xo92ijal/video/upload/l_audio:Podcast_Music/fl_layer_apply,so_0,du_4/rob-growth-v10-1789526843.mp3"
-        length="3649148"
-        type="audio/mpeg"
-      />
-
+      <enclosure url="https://res.cloudinary.com/xo92ijal/video/upload/l_audio:Podcast_Music/fl_layer_apply,so_0,du_4/rob-growth-v10-1789526843.mp3" length="3649148" type="audio/mpeg" />
     </item>
-
 
     <item>
       <title>September 15, 2026 — Evening — September 15, 2026 — Meta Just Put a Cover Charge on the AI Party</title>
